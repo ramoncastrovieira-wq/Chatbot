@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "Ramon",
+    "phone": "5511972750845",
+    "stage": "Novo"
+  },
+ {
+    "id": 2,
+    "name": "Gustavo",
+    "phone": "5511983749132",
+    "stage": "Novo"  
+  }
+]
+
